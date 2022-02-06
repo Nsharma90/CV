@@ -2,18 +2,16 @@ h1 {
   background-color: darkblue;
   color: white;
   text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  text-size-adjust: 500px;
 }
 
 h4 {
-  font-family: cursive;
-}
-
-a {
-  font-family: cursive;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h2 {
-  font-family: cursive;
+  font-family: "Courier New", Courier, monospace;
   background-color: darkblue;
   color: white;
 }
